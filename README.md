@@ -16,5 +16,3 @@ This project is a simplified AI-powered system that extracts structured product 
 6. Returns final JSON output
 
 ---
-
-## 📥 Input Example
